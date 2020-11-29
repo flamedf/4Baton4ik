@@ -1,0 +1,6 @@
+C:\Users\DNS\source\repos\Var12\Var12\bin\Debug\Var12.exe.config
+C:\Users\DNS\source\repos\Var12\Var12\bin\Debug\Var12.exe
+C:\Users\DNS\source\repos\Var12\Var12\bin\Debug\Var12.pdb
+C:\Users\DNS\source\repos\Var12\Var12\obj\Debug\Var12.csprojAssemblyReference.cache
+C:\Users\DNS\source\repos\Var12\Var12\obj\Debug\Var12.exe
+C:\Users\DNS\source\repos\Var12\Var12\obj\Debug\Var12.pdb

@@ -1,0 +1,9 @@
+C:\Users\DNS\source\repos\тщ8\тщ8\bin\Debug\тщ8.exe.config
+C:\Users\DNS\source\repos\тщ8\тщ8\bin\Debug\тщ8.exe
+C:\Users\DNS\source\repos\тщ8\тщ8\bin\Debug\тщ8.pdb
+C:\Users\DNS\source\repos\тщ8\тщ8\obj\Debug\тщ8.csprojAssemblyReference.cache
+C:\Users\DNS\source\repos\тщ8\тщ8\obj\Debug\тщ8.Form1.resources
+C:\Users\DNS\source\repos\тщ8\тщ8\obj\Debug\тщ8.Properties.Resources.resources
+C:\Users\DNS\source\repos\тщ8\тщ8\obj\Debug\тщ8.csproj.GenerateResource.cache
+C:\Users\DNS\source\repos\тщ8\тщ8\obj\Debug\тщ8.exe
+C:\Users\DNS\source\repos\тщ8\тщ8\obj\Debug\тщ8.pdb
